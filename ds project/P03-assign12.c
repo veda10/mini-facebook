@@ -275,6 +275,7 @@ void peopleFromSamePlace(ITEM *graph,char place1[15],int n){
 	}
 	if(k==0){
 		printf("NONE....");	
+		printf("\n");
 	}
 }
 
