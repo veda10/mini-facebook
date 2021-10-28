@@ -1,2 +1,3 @@
 # mini-facebook
-A mini facebook without UI using data structures in c
+A mini facebook without UI using data structures in c programming language.
+
